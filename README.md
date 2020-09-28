@@ -1,5 +1,8 @@
 # Bomber
 
+## screenshot
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Bomber/master/Screenshot_20200927_205446.jpg)
+
 
 FIND...ME.
 
